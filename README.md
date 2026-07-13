@@ -92,6 +92,5 @@ SQL ✅ · Excel ✅ · Segmentation & Campaign Insight ✅ · NPS Insight ✅ �
 
 ## Author
 
-[Sushma Bilidale](https://github.com/Sushma-66) — Data Analyst with experience
-across inflight entertainment (Aviation Sector), telecommunications, and food service, currently
+[Sushma Bilidale](https://github.com/Sushma-66) — Data Analyst, driving insights across inflight entertainment (Aviation Sector), telecommunications, and Hospitality Portfolio, currently
 based in the UK.
