@@ -1,4 +1,4 @@
-# Marketing & Insight Analyst — Portfolio Project
+# Marketing & Insight Analysis — Portfolio Project
 
 A sample analytics project built to demonstrate the skills required for a
 Marketing & Insight Analyst role at a multi-branch building materials
@@ -93,5 +93,5 @@ SQL ✅ · Excel ✅ · Segmentation & Campaign Insight ✅ · NPS Insight ✅ �
 ## Author
 
 [Sushma Bilidale](https://github.com/Sushma-66) — Data Analyst with experience
-across inflight entertainment, telecommunications, and food service, currently
+across inflight entertainment (Aviation Sector), telecommunications, and food service, currently
 based in the UK.
