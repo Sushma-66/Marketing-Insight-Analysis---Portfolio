@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,target_segment,send_date,campaign_cost
+CAMP001,Spring Trade Promo,Email,Trade Account,2024-11-11,2135.44
+CAMP002,Loft Insulation Push,Email,Retail,2024-07-02,463.88
+CAMP003,Contractor Loyalty Rewards,SMS,Contractor,2024-02-01,445.65
+CAMP004,New Account Welcome Series,Email,Trade Account,2025-07-21,2039.3
+CAMP005,Summer Landscaping Sale,Direct Mail,Retail,2025-07-01,1455.1
+CAMP006,Housebuilder Bulk Discount,Email,Housebuilder,2025-11-16,1614.39
+CAMP007,Winter Roofing Materials Offer,SMS,Contractor,2025-10-17,2255.4
+CAMP008,Cement & Aggregates Flash Sale,Email,Retail,2025-10-29,1675.45

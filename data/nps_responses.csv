@@ -1,0 +1,221 @@
+response_id,customer_id,response_date,nps_score,category,branch
+N0001,C00151,2025-06-19,5,Detractor,Rugby
+N0002,C00265,2025-03-24,9,Promoter,Birmingham South
+N0003,C00253,2024-12-29,8,Passive,Rugby
+N0004,C00450,2025-09-13,7,Passive,Nuneaton
+N0005,C00560,2024-10-23,9,Promoter,Leicester
+N0006,C00015,2024-06-10,9,Promoter,Nuneaton
+N0007,C00277,2026-06-17,8,Passive,Birmingham South
+N0008,C00451,2025-03-15,9,Promoter,Birmingham South
+N0009,C00003,2025-04-15,8,Passive,Birmingham South
+N0010,C00300,2026-05-15,8,Passive,Birmingham South
+N0011,C00041,2025-06-04,9,Promoter,Birmingham South
+N0012,C00495,2025-04-14,9,Promoter,Rugby
+N0013,C00206,2026-06-15,10,Promoter,Northampton
+N0014,C00399,2025-05-18,8,Passive,Northampton
+N0015,C00353,2024-11-13,8,Passive,Nuneaton
+N0016,C00070,2025-04-08,8,Passive,Nuneaton
+N0017,C00522,2025-02-25,2,Detractor,Rugby
+N0018,C00458,2025-07-26,5,Detractor,Binley (Coventry)
+N0019,C00383,2025-02-14,9,Promoter,Northampton
+N0020,C00404,2024-07-22,10,Promoter,Leicester
+N0021,C00183,2025-01-13,9,Promoter,Binley (Coventry)
+N0022,C00443,2025-01-23,7,Passive,Northampton
+N0023,C00143,2024-05-12,10,Promoter,Northampton
+N0024,C00052,2024-05-03,8,Passive,Rugby
+N0025,C00226,2025-11-29,7,Passive,Rugby
+N0026,C00163,2025-07-20,8,Passive,Northampton
+N0027,C00481,2025-10-29,8,Passive,Northampton
+N0028,C00214,2025-07-13,8,Passive,Rugby
+N0029,C00351,2025-06-23,10,Promoter,Birmingham South
+N0030,C00509,2026-03-29,7,Passive,Birmingham South
+N0031,C00121,2024-08-18,7,Passive,Rugby
+N0032,C00145,2024-05-18,0,Detractor,Northampton
+N0033,C00373,2025-09-19,9,Promoter,Rugby
+N0034,C00587,2024-04-11,7,Passive,Rugby
+N0035,C00496,2025-11-12,8,Passive,Northampton
+N0036,C00190,2026-06-25,6,Detractor,Rugby
+N0037,C00075,2026-05-12,8,Passive,Binley (Coventry)
+N0038,C00159,2025-12-21,9,Promoter,Rugby
+N0039,C00256,2026-05-13,8,Passive,Leicester
+N0040,C00005,2024-04-05,9,Promoter,Northampton
+N0041,C00028,2026-05-29,3,Detractor,Birmingham South
+N0042,C00350,2025-01-07,8,Passive,Northampton
+N0043,C00469,2025-05-17,8,Passive,Rugby
+N0044,C00519,2024-04-08,6,Detractor,Binley (Coventry)
+N0045,C00358,2026-05-29,7,Passive,Leicester
+N0046,C00118,2024-11-19,10,Promoter,Nuneaton
+N0047,C00377,2024-09-15,7,Passive,Rugby
+N0048,C00240,2026-02-12,4,Detractor,Leicester
+N0049,C00146,2025-10-02,6,Detractor,Northampton
+N0050,C00313,2024-10-31,9,Promoter,Rugby
+N0051,C00186,2024-03-21,7,Passive,Binley (Coventry)
+N0052,C00349,2024-06-20,10,Promoter,Nuneaton
+N0053,C00398,2026-05-30,10,Promoter,Rugby
+N0054,C00390,2024-11-25,10,Promoter,Leicester
+N0055,C00021,2025-04-15,9,Promoter,Birmingham South
+N0056,C00008,2025-07-27,7,Passive,Leicester
+N0057,C00001,2025-02-15,8,Passive,Binley (Coventry)
+N0058,C00342,2025-01-22,8,Passive,Leicester
+N0059,C00503,2026-02-12,7,Passive,Nuneaton
+N0060,C00218,2024-08-05,7,Passive,Binley (Coventry)
+N0061,C00418,2024-06-15,8,Passive,Rugby
+N0062,C00048,2024-12-09,7,Passive,Rugby
+N0063,C00211,2025-11-14,6,Detractor,Nuneaton
+N0064,C00032,2024-11-15,8,Passive,Binley (Coventry)
+N0065,C00208,2026-02-23,7,Passive,Binley (Coventry)
+N0066,C00276,2024-10-03,10,Promoter,Nuneaton
+N0067,C00564,2025-06-07,7,Passive,Nuneaton
+N0068,C00252,2025-09-11,10,Promoter,Leicester
+N0069,C00416,2025-07-27,6,Detractor,Northampton
+N0070,C00347,2024-05-31,8,Passive,Birmingham South
+N0071,C00194,2025-01-31,9,Promoter,Birmingham South
+N0072,C00129,2025-04-11,7,Passive,Nuneaton
+N0073,C00528,2025-11-23,10,Promoter,Binley (Coventry)
+N0074,C00331,2024-11-09,8,Passive,Birmingham South
+N0075,C00445,2024-09-25,9,Promoter,Rugby
+N0076,C00274,2025-09-07,9,Promoter,Birmingham South
+N0077,C00455,2025-10-10,9,Promoter,Birmingham South
+N0078,C00452,2026-04-02,7,Passive,Birmingham South
+N0079,C00029,2026-01-10,8,Passive,Nuneaton
+N0080,C00511,2025-06-19,7,Passive,Northampton
+N0081,C00045,2024-07-23,9,Promoter,Northampton
+N0082,C00437,2026-01-28,7,Passive,Binley (Coventry)
+N0083,C00046,2024-04-17,8,Passive,Binley (Coventry)
+N0084,C00026,2025-11-05,9,Promoter,Nuneaton
+N0085,C00521,2025-10-19,9,Promoter,Nuneaton
+N0086,C00279,2026-05-03,10,Promoter,Leicester
+N0087,C00387,2026-03-23,9,Promoter,Birmingham South
+N0088,C00102,2024-11-26,8,Passive,Leicester
+N0089,C00285,2025-11-08,10,Promoter,Nuneaton
+N0090,C00581,2025-06-25,7,Passive,Leicester
+N0091,C00123,2024-08-20,8,Passive,Birmingham South
+N0092,C00127,2025-04-07,9,Promoter,Nuneaton
+N0093,C00447,2026-01-30,9,Promoter,Nuneaton
+N0094,C00228,2024-12-16,10,Promoter,Nuneaton
+N0095,C00017,2025-08-20,5,Detractor,Binley (Coventry)
+N0096,C00027,2024-06-28,10,Promoter,Rugby
+N0097,C00402,2025-10-26,8,Passive,Birmingham South
+N0098,C00578,2025-05-19,8,Passive,Birmingham South
+N0099,C00376,2026-03-15,8,Passive,Northampton
+N0100,C00303,2024-04-19,10,Promoter,Northampton
+N0101,C00590,2024-03-05,4,Detractor,Binley (Coventry)
+N0102,C00374,2026-06-15,5,Detractor,Binley (Coventry)
+N0103,C00526,2026-06-11,10,Promoter,Leicester
+N0104,C00339,2026-04-17,4,Detractor,Binley (Coventry)
+N0105,C00250,2026-05-15,3,Detractor,Leicester
+N0106,C00563,2025-01-15,10,Promoter,Nuneaton
+N0107,C00457,2026-03-29,10,Promoter,Northampton
+N0108,C00487,2024-07-09,9,Promoter,Northampton
+N0109,C00552,2024-09-09,10,Promoter,Rugby
+N0110,C00101,2026-01-06,8,Passive,Binley (Coventry)
+N0111,C00199,2024-06-12,8,Passive,Birmingham South
+N0112,C00287,2024-07-06,10,Promoter,Birmingham South
+N0113,C00225,2026-05-30,9,Promoter,Rugby
+N0114,C00043,2024-05-17,7,Passive,Binley (Coventry)
+N0115,C00497,2025-12-10,8,Passive,Birmingham South
+N0116,C00568,2025-02-24,7,Passive,Nuneaton
+N0117,C00327,2025-03-27,9,Promoter,Birmingham South
+N0118,C00423,2025-01-07,6,Detractor,Nuneaton
+N0119,C00434,2026-03-11,9,Promoter,Rugby
+N0120,C00463,2026-02-04,7,Passive,Rugby
+N0121,C00196,2024-04-06,6,Detractor,Nuneaton
+N0122,C00510,2025-02-08,4,Detractor,Rugby
+N0123,C00258,2024-10-09,8,Passive,Rugby
+N0124,C00467,2024-10-28,9,Promoter,Binley (Coventry)
+N0125,C00360,2026-01-24,9,Promoter,Nuneaton
+N0126,C00235,2025-08-17,7,Passive,Birmingham South
+N0127,C00224,2024-09-10,6,Detractor,Nuneaton
+N0128,C00096,2025-03-28,9,Promoter,Leicester
+N0129,C00448,2024-11-02,5,Detractor,Leicester
+N0130,C00500,2024-06-02,9,Promoter,Northampton
+N0131,C00465,2024-03-15,10,Promoter,Birmingham South
+N0132,C00184,2025-12-19,6,Detractor,Nuneaton
+N0133,C00494,2025-01-15,8,Passive,Leicester
+N0134,C00245,2025-10-31,10,Promoter,Leicester
+N0135,C00363,2024-12-16,9,Promoter,Rugby
+N0136,C00251,2024-12-06,3,Detractor,Rugby
+N0137,C00410,2024-05-02,10,Promoter,Nuneaton
+N0138,C00155,2024-12-15,5,Detractor,Leicester
+N0139,C00427,2024-09-11,8,Passive,Binley (Coventry)
+N0140,C00004,2025-02-18,9,Promoter,Northampton
+N0141,C00379,2024-12-12,2,Detractor,Northampton
+N0142,C00167,2026-04-18,7,Passive,Birmingham South
+N0143,C00131,2025-11-05,10,Promoter,Northampton
+N0144,C00192,2024-11-08,6,Detractor,Nuneaton
+N0145,C00462,2025-08-10,10,Promoter,Binley (Coventry)
+N0146,C00257,2025-10-20,3,Detractor,Leicester
+N0147,C00474,2025-09-30,9,Promoter,Nuneaton
+N0148,C00220,2025-06-20,9,Promoter,Birmingham South
+N0149,C00063,2024-11-27,1,Detractor,Birmingham South
+N0150,C00269,2025-01-04,7,Passive,Rugby
+N0151,C00077,2024-09-24,10,Promoter,Birmingham South
+N0152,C00149,2025-11-25,4,Detractor,Binley (Coventry)
+N0153,C00547,2025-07-09,0,Detractor,Northampton
+N0154,C00594,2025-09-22,4,Detractor,Binley (Coventry)
+N0155,C00371,2026-01-23,6,Detractor,Leicester
+N0156,C00562,2026-02-05,7,Passive,Northampton
+N0157,C00158,2024-07-11,7,Passive,Nuneaton
+N0158,C00035,2025-07-14,9,Promoter,Binley (Coventry)
+N0159,C00141,2025-12-19,8,Passive,Birmingham South
+N0160,C00088,2025-05-21,6,Detractor,Binley (Coventry)
+N0161,C00470,2024-11-19,7,Passive,Binley (Coventry)
+N0162,C00260,2024-05-06,8,Passive,Rugby
+N0163,C00550,2025-05-29,8,Passive,Rugby
+N0164,C00120,2024-10-17,7,Passive,Leicester
+N0165,C00322,2025-01-12,7,Passive,Nuneaton
+N0166,C00033,2024-06-18,8,Passive,Rugby
+N0167,C00529,2024-06-08,7,Passive,Birmingham South
+N0168,C00056,2025-04-03,6,Detractor,Northampton
+N0169,C00372,2024-06-17,8,Passive,Rugby
+N0170,C00502,2026-01-29,7,Passive,Birmingham South
+N0171,C00310,2024-10-09,7,Passive,Northampton
+N0172,C00478,2025-10-12,9,Promoter,Rugby
+N0173,C00524,2024-07-09,9,Promoter,Rugby
+N0174,C00241,2024-08-31,9,Promoter,Nuneaton
+N0175,C00089,2024-04-22,8,Passive,Northampton
+N0176,C00215,2024-05-10,10,Promoter,Leicester
+N0177,C00107,2025-12-18,7,Passive,Rugby
+N0178,C00466,2024-11-16,4,Detractor,Nuneaton
+N0179,C00133,2024-10-14,9,Promoter,Leicester
+N0180,C00352,2025-10-05,9,Promoter,Northampton
+N0181,C00293,2024-08-09,2,Detractor,Birmingham South
+N0182,C00426,2026-03-29,8,Passive,Leicester
+N0183,C00493,2025-11-18,8,Passive,Birmingham South
+N0184,C00325,2025-02-02,9,Promoter,Leicester
+N0185,C00083,2024-12-20,8,Passive,Birmingham South
+N0186,C00585,2025-06-28,9,Promoter,Leicester
+N0187,C00105,2026-02-20,6,Detractor,Northampton
+N0188,C00366,2025-09-30,10,Promoter,Binley (Coventry)
+N0189,C00113,2024-07-13,4,Detractor,Leicester
+N0190,C00296,2025-11-09,9,Promoter,Nuneaton
+N0191,C00591,2024-10-13,10,Promoter,Birmingham South
+N0192,C00593,2024-06-23,8,Passive,Nuneaton
+N0193,C00082,2024-06-21,9,Promoter,Northampton
+N0194,C00523,2025-05-27,5,Detractor,Northampton
+N0195,C00161,2024-11-04,7,Passive,Nuneaton
+N0196,C00289,2026-05-16,8,Passive,Nuneaton
+N0197,C00403,2025-06-17,7,Passive,Rugby
+N0198,C00013,2024-05-29,9,Promoter,Binley (Coventry)
+N0199,C00545,2026-05-31,10,Promoter,Binley (Coventry)
+N0200,C00237,2026-05-18,6,Detractor,Birmingham South
+N0201,C00556,2025-05-06,9,Promoter,Leicester
+N0202,C00407,2024-09-08,10,Promoter,Binley (Coventry)
+N0203,C00109,2024-04-04,10,Promoter,Nuneaton
+N0204,C00071,2026-02-22,10,Promoter,Binley (Coventry)
+N0205,C00486,2025-12-30,8,Passive,Nuneaton
+N0206,C00357,2025-01-28,9,Promoter,Northampton
+N0207,C00461,2024-04-16,9,Promoter,Birmingham South
+N0208,C00449,2024-12-08,0,Detractor,Binley (Coventry)
+N0209,C00368,2024-09-11,10,Promoter,Birmingham South
+N0210,C00140,2024-10-07,8,Passive,Rugby
+N0211,C00262,2024-12-23,8,Passive,Leicester
+N0212,C00422,2026-06-22,7,Passive,Rugby
+N0213,C00180,2026-05-06,6,Detractor,Rugby
+N0214,C00425,2026-05-23,8,Passive,Northampton
+N0215,C00233,2024-06-04,8,Passive,Leicester
+N0216,C00248,2024-08-08,7,Passive,Leicester
+N0217,C00037,2026-02-23,9,Promoter,Binley (Coventry)
+N0218,C00187,2024-04-27,0,Detractor,Northampton
+N0219,C00543,2024-08-01,8,Passive,Leicester
+N0220,C00137,2025-05-27,6,Detractor,Nuneaton

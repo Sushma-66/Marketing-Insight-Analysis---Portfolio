@@ -1,0 +1,32 @@
+product_id,product_name,category,unit_cost,unit_price
+P0001,Treated Timber 47x100mm,Timber,111.1,135.95
+P0002,Sawn Timber 25x150mm,Timber,168.32,240.92
+P0003,OSB Board 18mm,Timber,85.53,122.01
+P0004,Plywood Sheet 12mm,Timber,31.44,49.15
+P0005,Roof Truss Timber,Timber,59.07,79.76
+P0006,General Purpose Cement 25kg,Cement & Aggregates,51.51,73.76
+P0007,Building Sand (Bulk Bag),Cement & Aggregates,99.99,137.14
+P0008,Ballast (Bulk Bag),Cement & Aggregates,147.44,184.05
+P0009,Postcrete 20kg,Cement & Aggregates,81.07,118.79
+P0010,Ready Mix Concrete (per m3),Cement & Aggregates,17.67,25.23
+P0011,Loft Insulation Roll 100mm,Insulation,58.26,99.65
+P0012,Cavity Wall Batts,Insulation,134.65,165.07
+P0013,PIR Insulation Board 50mm,Insulation,73.81,90.97
+P0014,Acoustic Insulation Roll,Insulation,99.74,160.41
+P0015,Cordless Drill 18V,Tools & Fixings,142.94,242.75
+P0016,Screws Box (200pc),Tools & Fixings,115.48,190.44
+P0017,Hammer Drill Bits Set,Tools & Fixings,102.1,154.02
+P0018,Wood Screws 4x40mm,Tools & Fixings,83.21,112.72
+P0019,Nail Gun Nails Box,Tools & Fixings,148.91,238.63
+P0020,Concrete Roof Tile,Roofing,152.29,205.71
+P0021,Roofing Felt Roll,Roofing,138.6,205.03
+P0022,Ridge Tile,Roofing,129.57,176.81
+P0023,Guttering 4m Length,Roofing,82.55,103.63
+P0024,PVC Drainage Pipe 110mm,Plumbing & Drainage,119.29,145.57
+P0025,Soil Pipe Fitting,Plumbing & Drainage,65.21,97.63
+P0026,Underground Drainage Kit,Plumbing & Drainage,144.38,209.69
+P0027,Copper Pipe 15mm (3m),Plumbing & Drainage,68.55,86.28
+P0028,Paving Slab 600x600mm,Landscaping,161.64,230.32
+P0029,Decorative Gravel (Bulk Bag),Landscaping,148.29,231.05
+P0030,Sleeper Timber,Landscaping,74.84,98.61
+P0031,Fence Post 2.4m,Landscaping,36.87,46.61

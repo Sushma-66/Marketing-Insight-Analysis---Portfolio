@@ -1,0 +1,601 @@
+customer_id,customer_name,customer_type,branch,signup_date,email_opt_in,sms_opt_in
+C00001,Liam Evans,Retail,Binley (Coventry),2023-08-17,1,1
+C00002,Jones & Sons,Contractor,Birmingham South,2024-03-08,1,1
+C00003,Smith Property Services,Trade Account,Birmingham South,2023-07-23,1,0
+C00004,Sam Walker,Retail,Northampton,2025-04-08,0,0
+C00005,Green Building Services,Trade Account,Northampton,2023-06-09,1,0
+C00006,Brown Home Improvements,Trade Account,Northampton,2025-05-17,1,1
+C00007,Turner Construction,Trade Account,Northampton,2024-01-23,1,1
+C00008,Sam Wilson,Retail,Leicester,2024-12-22,1,0
+C00009,Evans Construction,Contractor,Binley (Coventry),2024-01-25,1,0
+C00010,Grace Wilson,Retail,Leicester,2024-11-17,1,0
+C00011,Priya Turner,Retail,Birmingham South,2025-01-16,1,1
+C00012,Turner Developments,Trade Account,Rugby,2024-12-02,1,0
+C00013,Green Roofing Ltd,Trade Account,Binley (Coventry),2023-10-02,1,0
+C00014,Oliver Wilson,Retail,Rugby,2024-11-02,1,0
+C00015,Liam Taylor,Retail,Nuneaton,2023-09-10,1,1
+C00016,Cooper Roofing Ltd,Contractor,Northampton,2024-01-06,1,0
+C00017,Sarah Brown,Retail,Binley (Coventry),2023-06-06,1,0
+C00018,Ryan Wright,Retail,Binley (Coventry),2024-09-02,0,1
+C00019,Brown Property Services,Housebuilder,Binley (Coventry),2025-02-07,1,0
+C00020,Khan Groundworks,Trade Account,Northampton,2023-01-04,0,0
+C00021,Khan Property Services,Trade Account,Birmingham South,2023-04-19,0,1
+C00022,Tom Taylor,Retail,Birmingham South,2024-01-18,1,1
+C00023,Smith & Sons,Contractor,Birmingham South,2023-11-28,1,1
+C00024,Chloe Patel,Retail,Leicester,2023-09-04,0,0
+C00025,Jones Property Services,Trade Account,Northampton,2025-02-23,1,0
+C00026,Walker Property Services,Housebuilder,Nuneaton,2025-06-12,1,0
+C00027,Wilson Building Services,Housebuilder,Rugby,2024-02-13,0,0
+C00028,Daniel Brown,Retail,Birmingham South,2023-09-11,1,1
+C00029,Sam Evans,Retail,Nuneaton,2023-01-08,1,0
+C00030,Green Construction,Trade Account,Binley (Coventry),2024-06-10,1,0
+C00031,Cooper & Sons,Trade Account,Nuneaton,2024-04-29,1,1
+C00032,Emily Clarke,Retail,Binley (Coventry),2023-12-29,1,1
+C00033,Brown Builders Ltd,Contractor,Rugby,2024-02-17,1,0
+C00034,Wilson Property Services,Trade Account,Nuneaton,2024-04-04,1,1
+C00035,Daniel Turner,Retail,Binley (Coventry),2023-04-11,1,0
+C00036,Evans Contractors,Contractor,Binley (Coventry),2024-02-21,1,1
+C00037,Priya Wright,Retail,Binley (Coventry),2023-01-03,0,1
+C00038,Hughes Roofing Ltd,Contractor,Northampton,2024-12-14,0,0
+C00039,Megan Taylor,Retail,Rugby,2023-07-14,1,0
+C00040,Sarah Green,Retail,Birmingham South,2023-02-28,1,1
+C00041,Khan Builders Ltd,Housebuilder,Birmingham South,2024-06-04,1,1
+C00042,Chloe Wright,Retail,Rugby,2023-05-03,0,0
+C00043,Ellie Jones,Retail,Binley (Coventry),2024-03-05,1,0
+C00044,Wilson Home Improvements,Trade Account,Leicester,2023-09-02,1,1
+C00045,Oliver Jones,Retail,Northampton,2023-01-10,1,0
+C00046,Turner Developments,Housebuilder,Binley (Coventry),2024-06-02,1,0
+C00047,Hall Building Services,Contractor,Nuneaton,2023-06-11,1,1
+C00048,Ward Builders Ltd,Trade Account,Rugby,2024-11-14,0,1
+C00049,Walker Construction,Contractor,Nuneaton,2023-04-20,1,1
+C00050,Green Developments,Trade Account,Nuneaton,2024-12-04,1,1
+C00051,Mohammed Clarke,Retail,Binley (Coventry),2025-04-29,1,1
+C00052,Walker Contractors,Contractor,Rugby,2025-01-29,1,0
+C00053,Mohammed Taylor,Retail,Binley (Coventry),2024-07-12,1,1
+C00054,David Patel,Retail,Northampton,2023-11-12,1,0
+C00055,Hall Developments,Housebuilder,Binley (Coventry),2024-11-29,1,1
+C00056,Reid Contractors,Contractor,Northampton,2023-08-31,0,0
+C00057,Smith Contractors,Contractor,Northampton,2025-01-24,0,0
+C00058,Chloe Walker,Retail,Rugby,2023-06-13,1,1
+C00059,Evans Developments,Contractor,Northampton,2025-04-16,0,1
+C00060,Evans Builders Ltd,Contractor,Nuneaton,2024-11-06,1,1
+C00061,Hall Property Services,Contractor,Leicester,2024-02-14,1,0
+C00062,Brown Building Services,Trade Account,Binley (Coventry),2023-07-02,1,0
+C00063,Clarke Home Improvements,Trade Account,Birmingham South,2025-01-16,1,1
+C00064,Wright & Sons,Housebuilder,Binley (Coventry),2023-07-14,1,0
+C00065,Wilson Home Improvements,Trade Account,Birmingham South,2024-03-17,1,0
+C00066,Brown Building Services,Trade Account,Leicester,2024-06-03,1,1
+C00067,Laura Taylor,Retail,Leicester,2023-07-16,1,0
+C00068,Reid & Sons,Contractor,Nuneaton,2023-11-05,1,0
+C00069,Clarke & Sons,Trade Account,Nuneaton,2024-09-13,1,1
+C00070,Kieran Baker,Retail,Nuneaton,2025-03-23,0,0
+C00071,Hughes Property Services,Trade Account,Binley (Coventry),2024-11-10,1,1
+C00072,Hughes Developments,Contractor,Nuneaton,2025-04-05,1,1
+C00073,Reid Construction,Trade Account,Northampton,2024-04-11,1,0
+C00074,Wright Groundworks,Trade Account,Rugby,2024-02-14,1,0
+C00075,Clarke Developments,Trade Account,Binley (Coventry),2023-06-30,0,0
+C00076,Chloe Brown,Retail,Birmingham South,2024-04-12,1,1
+C00077,Ellie Green,Retail,Birmingham South,2025-02-12,0,0
+C00078,Clarke Property Services,Contractor,Birmingham South,2024-04-01,0,0
+C00079,Chloe Walker,Retail,Leicester,2025-02-23,1,1
+C00080,Jones Building Services,Trade Account,Northampton,2023-08-29,1,1
+C00081,David Evans,Retail,Nuneaton,2024-01-28,1,0
+C00082,Green Property Services,Trade Account,Northampton,2024-04-22,1,1
+C00083,James Cooper,Retail,Birmingham South,2024-01-25,1,0
+C00084,Clarke Property Services,Trade Account,Northampton,2025-02-04,1,0
+C00085,Evans Building Services,Contractor,Northampton,2024-03-22,1,1
+C00086,Khan Groundworks,Contractor,Northampton,2023-05-11,0,1
+C00087,Cooper Builders Ltd,Housebuilder,Birmingham South,2023-03-27,1,1
+C00088,Liam Wright,Retail,Binley (Coventry),2023-12-02,1,1
+C00089,Walker Roofing Ltd,Contractor,Northampton,2023-09-16,0,1
+C00090,Hall Developments,Contractor,Binley (Coventry),2024-10-27,1,0
+C00091,Evans Developments,Trade Account,Binley (Coventry),2025-05-09,1,1
+C00092,Brown & Sons,Trade Account,Rugby,2023-08-12,1,1
+C00093,Ellie Brown,Retail,Birmingham South,2025-03-07,0,0
+C00094,Hughes & Sons,Trade Account,Binley (Coventry),2024-11-24,0,1
+C00095,Jones & Sons,Housebuilder,Nuneaton,2024-12-08,0,1
+C00096,Reid Construction,Contractor,Leicester,2025-03-26,0,0
+C00097,Hall Construction,Trade Account,Northampton,2024-06-02,1,1
+C00098,Emily Clarke,Retail,Northampton,2024-01-06,1,0
+C00099,Khan Property Services,Contractor,Northampton,2024-10-28,1,0
+C00100,Daniel Clarke,Retail,Northampton,2025-04-25,1,1
+C00101,Walker Groundworks,Contractor,Binley (Coventry),2023-09-07,1,0
+C00102,Smith Groundworks,Contractor,Leicester,2025-05-21,1,1
+C00103,Oliver Walker,Retail,Leicester,2024-09-02,1,1
+C00104,Jones Developments,Trade Account,Nuneaton,2025-01-07,1,0
+C00105,Baker Groundworks,Trade Account,Northampton,2025-03-22,1,1
+C00106,Aisha Cooper,Retail,Nuneaton,2024-01-13,1,1
+C00107,Laura Green,Retail,Rugby,2023-12-27,1,1
+C00108,Wilson Home Improvements,Trade Account,Binley (Coventry),2023-05-03,1,0
+C00109,Wilson Groundworks,Contractor,Nuneaton,2023-10-11,1,0
+C00110,Emily Wilson,Retail,Leicester,2023-10-31,1,1
+C00111,Taylor Building Services,Trade Account,Birmingham South,2023-02-16,0,0
+C00112,Baker Construction,Contractor,Nuneaton,2025-06-12,1,1
+C00113,Priya Patel,Retail,Leicester,2023-09-16,0,1
+C00114,Baker Construction,Contractor,Northampton,2024-08-13,1,1
+C00115,Hughes Construction,Trade Account,Birmingham South,2023-09-12,1,0
+C00116,Chloe Ward,Retail,Birmingham South,2024-01-25,1,1
+C00117,Hughes & Sons,Contractor,Northampton,2024-09-27,1,0
+C00118,Wilson Building Services,Trade Account,Nuneaton,2024-11-07,1,1
+C00119,James Clarke,Retail,Nuneaton,2024-04-06,1,1
+C00120,Hughes Groundworks,Trade Account,Leicester,2023-03-14,1,0
+C00121,Cooper Developments,Contractor,Rugby,2024-03-11,1,1
+C00122,Taylor Construction,Trade Account,Leicester,2023-03-03,1,1
+C00123,Hughes Groundworks,Contractor,Birmingham South,2023-05-08,1,1
+C00124,Kieran Turner,Retail,Leicester,2024-05-20,1,0
+C00125,Green & Sons,Contractor,Rugby,2023-09-14,1,1
+C00126,Cooper Builders Ltd,Contractor,Birmingham South,2025-02-22,1,1
+C00127,Baker Property Services,Trade Account,Nuneaton,2024-10-29,1,1
+C00128,Baker Construction,Housebuilder,Northampton,2024-04-26,1,1
+C00129,Green Roofing Ltd,Contractor,Nuneaton,2024-12-11,1,0
+C00130,Sarah King,Retail,Birmingham South,2023-04-01,1,1
+C00131,Ward Builders Ltd,Housebuilder,Northampton,2024-11-04,0,1
+C00132,Hall & Sons,Trade Account,Birmingham South,2025-02-13,1,1
+C00133,Turner Contractors,Trade Account,Leicester,2023-10-22,1,0
+C00134,Reid Developments,Trade Account,Rugby,2024-12-27,1,0
+C00135,Chloe Brown,Retail,Binley (Coventry),2024-04-17,0,0
+C00136,Hughes Property Services,Trade Account,Rugby,2024-12-23,1,0
+C00137,King Property Services,Housebuilder,Nuneaton,2023-05-29,1,0
+C00138,Mohammed Walker,Retail,Nuneaton,2025-03-02,1,1
+C00139,Walker Builders Ltd,Housebuilder,Birmingham South,2023-10-17,1,0
+C00140,Megan Taylor,Retail,Rugby,2024-04-02,1,1
+C00141,Ryan King,Retail,Birmingham South,2023-11-26,0,0
+C00142,Evans Roofing Ltd,Trade Account,Northampton,2023-02-14,1,1
+C00143,Wright Contractors,Housebuilder,Northampton,2024-05-22,0,1
+C00144,Brown Groundworks,Housebuilder,Leicester,2023-04-13,1,1
+C00145,Taylor Construction,Contractor,Northampton,2024-04-25,1,1
+C00146,Mohammed Green,Retail,Northampton,2025-05-22,1,1
+C00147,Baker Property Services,Housebuilder,Rugby,2023-02-06,1,1
+C00148,Evans Construction,Contractor,Leicester,2024-03-20,0,0
+C00149,King Contractors,Contractor,Binley (Coventry),2024-12-11,1,1
+C00150,Hughes Home Improvements,Trade Account,Binley (Coventry),2024-01-19,1,1
+C00151,Priya Khan,Retail,Rugby,2023-06-29,1,0
+C00152,Megan Cooper,Retail,Nuneaton,2023-05-27,1,0
+C00153,James King,Retail,Rugby,2023-10-22,1,1
+C00154,Sam Hughes,Retail,Leicester,2024-10-16,0,0
+C00155,Tom Wright,Retail,Leicester,2025-05-23,1,1
+C00156,Aisha Hughes,Retail,Birmingham South,2023-01-23,0,0
+C00157,Patel & Sons,Trade Account,Birmingham South,2025-02-02,1,0
+C00158,Reid Home Improvements,Trade Account,Nuneaton,2023-08-13,1,0
+C00159,Taylor Construction,Contractor,Rugby,2024-10-04,1,1
+C00160,Grace Taylor,Retail,Birmingham South,2023-04-03,0,1
+C00161,David Turner,Retail,Nuneaton,2025-06-16,0,1
+C00162,Walker Groundworks,Housebuilder,Nuneaton,2025-04-05,1,0
+C00163,Jones Contractors,Contractor,Northampton,2025-02-11,0,0
+C00164,Turner Home Improvements,Contractor,Northampton,2023-04-03,1,1
+C00165,Grace Walker,Retail,Northampton,2024-08-21,1,0
+C00166,Chloe Baker,Retail,Rugby,2023-01-26,1,0
+C00167,Evans Construction,Trade Account,Birmingham South,2024-10-12,0,0
+C00168,Brown Contractors,Trade Account,Northampton,2023-02-16,0,1
+C00169,Chloe Turner,Retail,Binley (Coventry),2023-05-19,1,1
+C00170,Turner Roofing Ltd,Housebuilder,Rugby,2024-08-24,1,1
+C00171,Megan Reid,Retail,Binley (Coventry),2024-02-22,0,1
+C00172,King Groundworks,Contractor,Nuneaton,2023-08-30,0,1
+C00173,Hall Builders Ltd,Contractor,Birmingham South,2024-02-12,1,0
+C00174,Jones Developments,Housebuilder,Northampton,2024-10-19,1,0
+C00175,Evans Contractors,Trade Account,Leicester,2025-03-16,1,1
+C00176,Cooper Developments,Contractor,Nuneaton,2025-04-12,0,1
+C00177,Smith Building Services,Trade Account,Birmingham South,2025-05-29,0,0
+C00178,Emily Smith,Retail,Nuneaton,2023-05-15,1,0
+C00179,Smith Contractors,Trade Account,Leicester,2023-09-29,1,0
+C00180,Mohammed Baker,Retail,Rugby,2024-04-04,1,1
+C00181,Evans & Sons,Trade Account,Birmingham South,2023-02-14,1,0
+C00182,King Builders Ltd,Contractor,Leicester,2023-03-04,0,0
+C00183,Megan King,Retail,Binley (Coventry),2023-03-17,0,1
+C00184,Walker & Sons,Trade Account,Nuneaton,2024-10-10,1,0
+C00185,Kieran Hughes,Retail,Birmingham South,2024-04-09,1,1
+C00186,Turner Developments,Contractor,Binley (Coventry),2024-03-16,1,1
+C00187,Wright Roofing Ltd,Trade Account,Northampton,2025-01-17,1,1
+C00188,Taylor Groundworks,Contractor,Leicester,2023-03-10,1,1
+C00189,Grace Taylor,Retail,Rugby,2024-07-23,1,0
+C00190,Emily Clarke,Retail,Rugby,2023-12-29,0,0
+C00191,Sarah Hughes,Retail,Rugby,2024-09-06,1,1
+C00192,Megan Evans,Retail,Nuneaton,2025-05-17,1,0
+C00193,Sam Evans,Retail,Leicester,2025-04-06,1,0
+C00194,Reid Property Services,Contractor,Birmingham South,2023-01-27,1,0
+C00195,Khan Building Services,Contractor,Binley (Coventry),2024-12-20,1,0
+C00196,David Cooper,Retail,Nuneaton,2024-11-04,1,1
+C00197,Mohammed Ward,Retail,Binley (Coventry),2023-08-09,1,1
+C00198,Green & Sons,Trade Account,Leicester,2024-09-02,1,1
+C00199,Patel Construction,Trade Account,Birmingham South,2023-10-06,1,1
+C00200,Liam Wilson,Retail,Northampton,2025-02-12,1,1
+C00201,Cooper Groundworks,Trade Account,Rugby,2024-06-23,1,1
+C00202,Sarah Smith,Retail,Birmingham South,2023-07-29,1,1
+C00203,Hughes Home Improvements,Trade Account,Leicester,2023-05-03,1,0
+C00204,Turner Developments,Trade Account,Northampton,2024-05-27,1,0
+C00205,Sarah Clarke,Retail,Northampton,2023-01-20,1,1
+C00206,Cooper Roofing Ltd,Trade Account,Northampton,2024-12-27,1,1
+C00207,Priya Reid,Retail,Leicester,2024-04-16,0,0
+C00208,Evans Roofing Ltd,Trade Account,Binley (Coventry),2024-08-26,1,1
+C00209,Green Developments,Contractor,Rugby,2023-12-08,1,1
+C00210,Kieran Wilson,Retail,Birmingham South,2025-03-05,1,0
+C00211,Evans Construction,Contractor,Nuneaton,2023-05-30,1,1
+C00212,Jones Contractors,Trade Account,Rugby,2025-03-02,1,1
+C00213,Daniel Cooper,Retail,Birmingham South,2024-10-20,1,0
+C00214,Green Contractors,Contractor,Rugby,2024-03-26,1,1
+C00215,Cooper Builders Ltd,Trade Account,Leicester,2023-12-27,1,1
+C00216,Grace Hughes,Retail,Binley (Coventry),2023-03-20,1,0
+C00217,Ward Roofing Ltd,Trade Account,Birmingham South,2024-04-18,1,0
+C00218,King & Sons,Contractor,Binley (Coventry),2024-10-29,1,0
+C00219,Daniel Brown,Retail,Binley (Coventry),2025-04-10,0,1
+C00220,Khan Builders Ltd,Contractor,Birmingham South,2023-09-11,1,0
+C00221,Priya Hall,Retail,Birmingham South,2024-01-17,0,1
+C00222,Reid Builders Ltd,Contractor,Rugby,2025-03-19,1,1
+C00223,Wright Building Services,Trade Account,Birmingham South,2023-09-16,1,0
+C00224,Green Construction,Housebuilder,Nuneaton,2024-08-19,1,0
+C00225,Wright Contractors,Trade Account,Rugby,2024-09-01,1,1
+C00226,Oliver Taylor,Retail,Rugby,2024-11-17,1,0
+C00227,Jones Roofing Ltd,Housebuilder,Birmingham South,2024-06-04,1,1
+C00228,Green Groundworks,Trade Account,Nuneaton,2023-07-16,1,1
+C00229,Ward Property Services,Trade Account,Binley (Coventry),2025-05-05,1,1
+C00230,Taylor & Sons,Contractor,Birmingham South,2024-01-21,1,1
+C00231,Khan Groundworks,Contractor,Birmingham South,2023-02-14,1,0
+C00232,Reid Building Services,Trade Account,Northampton,2025-02-09,1,1
+C00233,Megan Wilson,Retail,Leicester,2024-01-12,1,0
+C00234,Ryan Ward,Retail,Leicester,2024-06-24,1,1
+C00235,Taylor Building Services,Trade Account,Birmingham South,2023-02-23,1,0
+C00236,Kieran Brown,Retail,Binley (Coventry),2023-10-19,1,1
+C00237,David Clarke,Retail,Birmingham South,2023-04-04,0,1
+C00238,James Clarke,Retail,Leicester,2023-02-24,1,1
+C00239,Grace Evans,Retail,Binley (Coventry),2023-01-29,1,1
+C00240,Taylor Contractors,Contractor,Leicester,2023-02-09,1,0
+C00241,Baker Groundworks,Contractor,Nuneaton,2024-09-22,1,1
+C00242,Turner & Sons,Trade Account,Nuneaton,2024-06-24,1,0
+C00243,Patel Developments,Trade Account,Binley (Coventry),2024-03-05,1,0
+C00244,Reid Property Services,Trade Account,Northampton,2023-01-17,1,0
+C00245,Clarke Builders Ltd,Contractor,Leicester,2024-09-21,1,0
+C00246,Jones Property Services,Trade Account,Rugby,2024-01-05,1,1
+C00247,Laura Smith,Retail,Birmingham South,2024-02-04,0,1
+C00248,Liam Smith,Retail,Leicester,2024-01-01,1,1
+C00249,Brown & Sons,Contractor,Rugby,2025-01-22,1,1
+C00250,Priya King,Retail,Leicester,2024-12-13,1,1
+C00251,King Builders Ltd,Trade Account,Rugby,2023-10-28,1,0
+C00252,Hughes Property Services,Contractor,Leicester,2024-02-12,0,1
+C00253,Wilson Building Services,Trade Account,Rugby,2024-01-01,0,1
+C00254,Brown Home Improvements,Contractor,Leicester,2024-03-23,0,0
+C00255,Green Contractors,Contractor,Northampton,2024-05-23,1,1
+C00256,Jones Roofing Ltd,Contractor,Leicester,2023-03-22,1,0
+C00257,Green Construction,Trade Account,Leicester,2023-03-23,1,1
+C00258,Sophie Khan,Retail,Rugby,2024-12-07,1,1
+C00259,Reid Roofing Ltd,Contractor,Leicester,2023-10-09,1,0
+C00260,Wright Home Improvements,Trade Account,Rugby,2024-06-09,0,0
+C00261,Reid Groundworks,Housebuilder,Nuneaton,2023-02-05,1,1
+C00262,Ryan Cooper,Retail,Leicester,2023-02-03,1,0
+C00263,King Construction,Housebuilder,Leicester,2024-08-10,1,1
+C00264,Evans Construction,Trade Account,Leicester,2023-01-27,1,1
+C00265,Emily Walker,Retail,Birmingham South,2025-03-04,1,1
+C00266,Baker Developments,Housebuilder,Leicester,2023-05-06,1,1
+C00267,King Construction,Trade Account,Rugby,2025-04-09,1,0
+C00268,Jones Property Services,Trade Account,Leicester,2024-07-09,1,1
+C00269,Khan Home Improvements,Trade Account,Rugby,2024-06-04,1,0
+C00270,Baker Builders Ltd,Contractor,Nuneaton,2024-01-05,1,1
+C00271,Taylor & Sons,Contractor,Birmingham South,2023-03-30,1,1
+C00272,Ward Roofing Ltd,Contractor,Northampton,2025-02-26,1,0
+C00273,Jones Groundworks,Trade Account,Leicester,2024-04-22,1,1
+C00274,Cooper Contractors,Contractor,Birmingham South,2025-02-25,0,1
+C00275,Brown Property Services,Housebuilder,Binley (Coventry),2023-06-06,1,1
+C00276,Hall Property Services,Housebuilder,Nuneaton,2023-10-18,0,1
+C00277,Liam Taylor,Retail,Birmingham South,2024-10-02,1,1
+C00278,Sam Cooper,Retail,Nuneaton,2023-06-07,1,0
+C00279,Cooper Builders Ltd,Housebuilder,Leicester,2025-04-25,0,1
+C00280,Walker Developments,Housebuilder,Birmingham South,2025-02-24,1,0
+C00281,Turner Building Services,Trade Account,Rugby,2024-10-19,0,1
+C00282,Wright Building Services,Contractor,Rugby,2024-04-09,1,1
+C00283,Daniel Wilson,Retail,Northampton,2023-12-15,1,1
+C00284,Hall Roofing Ltd,Contractor,Rugby,2023-05-14,1,1
+C00285,King Construction,Trade Account,Nuneaton,2023-10-01,1,1
+C00286,Reid Roofing Ltd,Trade Account,Northampton,2023-09-12,0,0
+C00287,Green Developments,Contractor,Birmingham South,2025-02-20,1,0
+C00288,Megan Smith,Retail,Leicester,2023-04-03,0,1
+C00289,Cooper Home Improvements,Housebuilder,Nuneaton,2023-02-19,1,1
+C00290,Baker Building Services,Contractor,Rugby,2024-07-03,1,1
+C00291,Hall Roofing Ltd,Trade Account,Leicester,2024-01-10,1,1
+C00292,Laura Hughes,Retail,Leicester,2023-03-17,1,1
+C00293,Ellie Brown,Retail,Birmingham South,2023-05-12,0,1
+C00294,Turner Home Improvements,Contractor,Leicester,2025-02-12,1,0
+C00295,Sarah Patel,Retail,Binley (Coventry),2023-05-21,1,0
+C00296,Ellie Ward,Retail,Nuneaton,2023-05-24,1,0
+C00297,Hughes & Sons,Trade Account,Birmingham South,2023-12-11,1,1
+C00298,Aisha Baker,Retail,Birmingham South,2025-04-15,1,1
+C00299,Cooper Building Services,Trade Account,Northampton,2025-03-26,0,0
+C00300,Megan Walker,Retail,Birmingham South,2024-11-02,1,0
+C00301,Sarah Cooper,Retail,Rugby,2024-05-06,1,0
+C00302,David Evans,Retail,Northampton,2023-02-02,1,0
+C00303,Green Roofing Ltd,Trade Account,Northampton,2023-06-05,1,1
+C00304,Megan Patel,Retail,Birmingham South,2024-12-23,1,1
+C00305,Baker Property Services,Trade Account,Rugby,2024-01-21,1,1
+C00306,Turner Home Improvements,Housebuilder,Leicester,2024-11-23,1,0
+C00307,Liam Reid,Retail,Rugby,2024-05-10,1,1
+C00308,Aisha Hughes,Retail,Nuneaton,2024-12-22,1,0
+C00309,Turner Building Services,Trade Account,Leicester,2023-10-22,1,0
+C00310,Grace Taylor,Retail,Northampton,2023-10-25,1,0
+C00311,Walker Groundworks,Trade Account,Northampton,2023-08-08,1,1
+C00312,Walker Contractors,Housebuilder,Rugby,2023-04-22,1,0
+C00313,Ward Developments,Trade Account,Rugby,2024-10-15,1,1
+C00314,Brown Contractors,Trade Account,Northampton,2023-01-06,0,0
+C00315,Baker Groundworks,Trade Account,Rugby,2024-10-28,1,0
+C00316,Patel Construction,Trade Account,Rugby,2024-10-29,1,1
+C00317,Khan Roofing Ltd,Contractor,Binley (Coventry),2025-05-07,1,0
+C00318,Baker Contractors,Housebuilder,Northampton,2025-02-05,0,0
+C00319,Hughes & Sons,Contractor,Binley (Coventry),2024-09-09,1,0
+C00320,Turner Property Services,Trade Account,Rugby,2024-05-20,0,1
+C00321,Tom Brown,Retail,Leicester,2023-12-05,1,1
+C00322,Smith Home Improvements,Trade Account,Nuneaton,2025-03-20,1,0
+C00323,Wright Roofing Ltd,Trade Account,Birmingham South,2024-06-11,1,1
+C00324,Baker Home Improvements,Trade Account,Nuneaton,2023-09-12,1,1
+C00325,Oliver Hughes,Retail,Leicester,2024-08-19,1,1
+C00326,Evans Builders Ltd,Contractor,Rugby,2024-11-14,1,1
+C00327,Aisha Brown,Retail,Birmingham South,2024-10-16,0,1
+C00328,David Baker,Retail,Nuneaton,2023-06-06,1,0
+C00329,Laura Baker,Retail,Rugby,2025-02-14,1,0
+C00330,Reid Construction,Trade Account,Nuneaton,2024-06-22,1,0
+C00331,Brown Builders Ltd,Trade Account,Birmingham South,2025-04-28,1,1
+C00332,Priya Green,Retail,Nuneaton,2025-05-24,1,1
+C00333,Baker Construction,Trade Account,Birmingham South,2024-06-06,1,1
+C00334,King & Sons,Trade Account,Northampton,2023-03-01,1,0
+C00335,Wright Building Services,Trade Account,Binley (Coventry),2025-04-16,1,1
+C00336,Hall Construction,Trade Account,Northampton,2024-07-08,0,0
+C00337,Patel Building Services,Trade Account,Northampton,2024-02-23,1,1
+C00338,Sophie Hall,Retail,Rugby,2024-01-27,1,0
+C00339,Laura Taylor,Retail,Binley (Coventry),2024-10-31,0,1
+C00340,Ward Contractors,Housebuilder,Northampton,2025-01-15,0,0
+C00341,King Property Services,Contractor,Leicester,2024-03-10,1,0
+C00342,Taylor Building Services,Trade Account,Leicester,2023-07-13,0,0
+C00343,Clarke & Sons,Trade Account,Rugby,2025-02-23,0,0
+C00344,Brown & Sons,Trade Account,Binley (Coventry),2023-02-04,1,0
+C00345,Patel Roofing Ltd,Contractor,Nuneaton,2024-03-25,1,1
+C00346,Taylor Property Services,Contractor,Binley (Coventry),2023-10-24,1,0
+C00347,Ellie Green,Retail,Birmingham South,2023-08-31,1,1
+C00348,Clarke Building Services,Contractor,Nuneaton,2023-10-09,1,0
+C00349,Clarke Property Services,Contractor,Nuneaton,2024-05-22,1,1
+C00350,Kieran Green,Retail,Northampton,2024-12-14,1,1
+C00351,Megan Evans,Retail,Birmingham South,2025-05-19,1,0
+C00352,Patel Property Services,Trade Account,Northampton,2024-02-27,0,0
+C00353,Walker Developments,Trade Account,Nuneaton,2023-12-05,1,0
+C00354,Turner Developments,Contractor,Binley (Coventry),2023-02-22,1,0
+C00355,Tom Cooper,Retail,Binley (Coventry),2025-01-11,1,1
+C00356,Hughes Builders Ltd,Trade Account,Leicester,2023-08-05,0,0
+C00357,Evans & Sons,Trade Account,Northampton,2024-12-21,1,0
+C00358,Ryan King,Retail,Leicester,2024-06-30,1,1
+C00359,Daniel Brown,Retail,Northampton,2025-04-02,0,1
+C00360,Hall Home Improvements,Contractor,Nuneaton,2024-02-28,1,0
+C00361,Walker Property Services,Contractor,Binley (Coventry),2024-08-21,1,1
+C00362,Evans Roofing Ltd,Trade Account,Leicester,2024-08-06,0,1
+C00363,Green Building Services,Contractor,Rugby,2025-02-20,0,0
+C00364,Daniel Khan,Retail,Northampton,2025-01-20,1,1
+C00365,Khan Property Services,Contractor,Northampton,2024-10-19,0,1
+C00366,Patel Builders Ltd,Contractor,Binley (Coventry),2024-02-27,1,0
+C00367,Smith Developments,Trade Account,Nuneaton,2024-06-01,1,1
+C00368,Megan Baker,Retail,Birmingham South,2023-01-17,1,0
+C00369,Walker Property Services,Trade Account,Birmingham South,2023-10-21,1,0
+C00370,Brown Construction,Contractor,Nuneaton,2024-06-20,1,1
+C00371,Liam Wright,Retail,Leicester,2023-03-22,1,1
+C00372,Chloe Hughes,Retail,Rugby,2024-12-01,0,1
+C00373,Patel Construction,Housebuilder,Rugby,2024-02-20,1,0
+C00374,Khan Construction,Trade Account,Binley (Coventry),2024-05-26,0,0
+C00375,Ward Builders Ltd,Trade Account,Binley (Coventry),2023-08-24,1,0
+C00376,Walker Builders Ltd,Contractor,Northampton,2023-03-18,1,1
+C00377,Sarah Khan,Retail,Rugby,2025-05-20,1,0
+C00378,Ryan Jones,Retail,Rugby,2023-11-03,1,1
+C00379,Turner Home Improvements,Contractor,Northampton,2024-01-29,1,1
+C00380,Jones Property Services,Housebuilder,Rugby,2025-02-02,0,1
+C00381,Oliver Reid,Retail,Binley (Coventry),2025-02-26,1,0
+C00382,Smith Building Services,Housebuilder,Leicester,2025-03-13,0,1
+C00383,Sophie Khan,Retail,Northampton,2024-11-27,1,1
+C00384,Evans Construction,Contractor,Leicester,2023-03-26,1,1
+C00385,Wright Home Improvements,Contractor,Nuneaton,2024-01-05,1,1
+C00386,Walker Construction,Trade Account,Leicester,2023-05-16,1,1
+C00387,Sophie Brown,Retail,Birmingham South,2023-01-27,1,0
+C00388,Ryan Smith,Retail,Leicester,2023-10-26,1,0
+C00389,Evans & Sons,Contractor,Birmingham South,2024-06-17,1,1
+C00390,Walker Groundworks,Trade Account,Leicester,2023-05-30,1,1
+C00391,Mohammed Hall,Retail,Northampton,2023-09-15,0,0
+C00392,Tom King,Retail,Birmingham South,2023-04-20,1,1
+C00393,Ryan Green,Retail,Birmingham South,2024-03-26,1,0
+C00394,Taylor Building Services,Contractor,Birmingham South,2023-11-25,1,0
+C00395,Ryan Green,Retail,Nuneaton,2023-10-26,1,0
+C00396,Green Roofing Ltd,Housebuilder,Nuneaton,2023-10-15,0,1
+C00397,Wilson & Sons,Trade Account,Birmingham South,2024-07-12,1,0
+C00398,King Developments,Trade Account,Rugby,2024-03-24,1,0
+C00399,Baker Contractors,Trade Account,Northampton,2024-10-10,1,1
+C00400,Wright Construction,Trade Account,Northampton,2024-04-04,0,1
+C00401,Sophie Turner,Retail,Birmingham South,2023-02-07,1,1
+C00402,Reid Construction,Contractor,Birmingham South,2023-04-22,1,0
+C00403,Ellie Patel,Retail,Rugby,2024-07-30,0,0
+C00404,Sophie Brown,Retail,Leicester,2023-01-11,1,1
+C00405,Cooper & Sons,Contractor,Birmingham South,2023-08-15,1,1
+C00406,Ward Contractors,Contractor,Birmingham South,2023-12-20,0,1
+C00407,Brown Contractors,Trade Account,Binley (Coventry),2023-12-23,1,1
+C00408,Hall Groundworks,Trade Account,Northampton,2023-04-10,1,0
+C00409,Patel Construction,Trade Account,Leicester,2023-01-24,0,0
+C00410,Evans Property Services,Contractor,Nuneaton,2023-06-28,1,1
+C00411,Chloe Wright,Retail,Northampton,2024-10-06,1,0
+C00412,Ellie Wilson,Retail,Binley (Coventry),2024-04-05,1,1
+C00413,Walker Construction,Contractor,Nuneaton,2024-08-14,1,0
+C00414,Wilson Groundworks,Trade Account,Leicester,2023-04-27,1,0
+C00415,Oliver Reid,Retail,Rugby,2024-02-02,1,0
+C00416,Reid Contractors,Trade Account,Northampton,2025-04-13,1,0
+C00417,Jones Contractors,Housebuilder,Birmingham South,2023-11-17,1,1
+C00418,Taylor Property Services,Trade Account,Rugby,2024-02-02,1,1
+C00419,Megan Turner,Retail,Nuneaton,2024-12-11,0,0
+C00420,Baker Building Services,Trade Account,Nuneaton,2023-05-24,1,0
+C00421,James Baker,Retail,Leicester,2023-05-20,1,1
+C00422,Megan Clarke,Retail,Rugby,2024-12-02,1,0
+C00423,Mohammed Cooper,Retail,Nuneaton,2023-02-01,1,1
+C00424,Turner Building Services,Trade Account,Nuneaton,2023-06-22,1,0
+C00425,Turner Property Services,Contractor,Northampton,2023-04-26,1,1
+C00426,Laura Patel,Retail,Leicester,2025-02-17,1,1
+C00427,Evans Building Services,Housebuilder,Binley (Coventry),2025-06-14,0,1
+C00428,King Construction,Trade Account,Binley (Coventry),2025-03-05,0,1
+C00429,Hall & Sons,Contractor,Rugby,2024-10-09,1,0
+C00430,Patel & Sons,Contractor,Nuneaton,2023-12-26,1,0
+C00431,Hughes Building Services,Trade Account,Rugby,2024-08-09,1,0
+C00432,Brown Contractors,Housebuilder,Rugby,2025-02-07,1,0
+C00433,Taylor Contractors,Housebuilder,Rugby,2023-09-13,1,1
+C00434,Wright Groundworks,Trade Account,Rugby,2023-05-26,1,1
+C00435,Mohammed Jones,Retail,Northampton,2024-02-17,1,1
+C00436,King Groundworks,Housebuilder,Leicester,2023-12-02,1,0
+C00437,King Home Improvements,Contractor,Binley (Coventry),2025-05-20,1,1
+C00438,Wilson Groundworks,Trade Account,Northampton,2023-10-02,1,1
+C00439,Sam Baker,Retail,Nuneaton,2025-03-18,1,0
+C00440,King Builders Ltd,Trade Account,Binley (Coventry),2023-05-08,0,1
+C00441,Tom Taylor,Retail,Northampton,2024-10-27,1,0
+C00442,Hall Building Services,Contractor,Binley (Coventry),2023-03-26,1,0
+C00443,Hughes Developments,Trade Account,Northampton,2024-03-15,1,0
+C00444,Jones Contractors,Trade Account,Northampton,2024-08-30,1,0
+C00445,Green Construction,Trade Account,Rugby,2025-05-30,1,1
+C00446,Jones Construction,Trade Account,Northampton,2023-04-16,1,0
+C00447,Taylor Construction,Trade Account,Nuneaton,2024-06-27,1,0
+C00448,Wilson Contractors,Trade Account,Leicester,2024-02-26,1,1
+C00449,Taylor Construction,Trade Account,Binley (Coventry),2024-08-26,1,1
+C00450,Chloe Walker,Retail,Nuneaton,2024-10-22,1,0
+C00451,Aisha Smith,Retail,Birmingham South,2025-05-18,0,0
+C00452,Ward Developments,Trade Account,Birmingham South,2025-02-04,1,0
+C00453,Baker Roofing Ltd,Contractor,Nuneaton,2023-04-26,1,0
+C00454,Hall Home Improvements,Trade Account,Binley (Coventry),2023-05-16,1,0
+C00455,Priya Baker,Retail,Birmingham South,2025-02-27,1,0
+C00456,Patel Builders Ltd,Trade Account,Nuneaton,2025-03-19,1,1
+C00457,Clarke Roofing Ltd,Contractor,Northampton,2023-03-26,1,1
+C00458,Hughes Construction,Trade Account,Binley (Coventry),2024-06-07,0,0
+C00459,Wright & Sons,Trade Account,Leicester,2024-10-11,1,0
+C00460,Sophie Evans,Retail,Leicester,2023-03-01,1,0
+C00461,Reid Builders Ltd,Trade Account,Birmingham South,2023-11-13,1,0
+C00462,Taylor Builders Ltd,Trade Account,Binley (Coventry),2023-06-17,1,1
+C00463,Liam Khan,Retail,Rugby,2024-01-16,1,0
+C00464,Smith Home Improvements,Trade Account,Binley (Coventry),2025-04-06,1,1
+C00465,Jones Groundworks,Trade Account,Birmingham South,2024-04-11,1,1
+C00466,Hall Contractors,Contractor,Nuneaton,2023-09-19,1,0
+C00467,Evans Property Services,Contractor,Binley (Coventry),2023-01-03,1,0
+C00468,Hall Roofing Ltd,Trade Account,Northampton,2023-06-03,1,0
+C00469,Clarke Developments,Trade Account,Rugby,2023-11-26,1,0
+C00470,Cooper Home Improvements,Trade Account,Binley (Coventry),2023-05-03,1,0
+C00471,Patel Roofing Ltd,Trade Account,Birmingham South,2023-03-12,0,0
+C00472,Green Construction,Contractor,Leicester,2024-07-20,1,1
+C00473,Reid Developments,Trade Account,Leicester,2024-04-20,1,0
+C00474,Turner Developments,Housebuilder,Nuneaton,2023-06-04,1,1
+C00475,Smith Home Improvements,Trade Account,Leicester,2023-01-02,1,1
+C00476,Brown Developments,Contractor,Leicester,2024-06-26,0,1
+C00477,Walker Construction,Housebuilder,Nuneaton,2023-02-14,0,0
+C00478,Grace King,Retail,Rugby,2025-02-04,1,1
+C00479,Jones & Sons,Trade Account,Northampton,2024-08-04,1,0
+C00480,Walker Home Improvements,Trade Account,Leicester,2025-03-31,1,0
+C00481,Walker Developments,Trade Account,Northampton,2023-03-18,0,1
+C00482,Taylor Construction,Contractor,Binley (Coventry),2023-06-18,1,1
+C00483,Wilson Groundworks,Trade Account,Leicester,2023-11-12,1,0
+C00484,Hughes & Sons,Trade Account,Rugby,2023-02-11,1,0
+C00485,Evans Home Improvements,Trade Account,Rugby,2024-02-10,1,0
+C00486,Smith Roofing Ltd,Trade Account,Nuneaton,2025-05-25,1,0
+C00487,Brown Contractors,Trade Account,Northampton,2023-05-05,1,0
+C00488,Wilson Roofing Ltd,Housebuilder,Nuneaton,2024-01-17,1,0
+C00489,Walker Construction,Trade Account,Birmingham South,2023-01-23,0,1
+C00490,Mohammed Green,Retail,Nuneaton,2023-05-06,1,1
+C00491,Clarke Roofing Ltd,Trade Account,Birmingham South,2024-05-23,1,0
+C00492,Khan Building Services,Trade Account,Nuneaton,2023-10-14,1,1
+C00493,Chloe Hughes,Retail,Birmingham South,2024-05-25,1,0
+C00494,Wright Contractors,Trade Account,Leicester,2024-03-05,1,0
+C00495,Laura Smith,Retail,Rugby,2024-01-27,1,1
+C00496,Grace Cooper,Retail,Northampton,2024-05-29,1,1
+C00497,Evans Builders Ltd,Trade Account,Birmingham South,2025-04-10,1,1
+C00498,Hall & Sons,Housebuilder,Birmingham South,2023-08-27,0,1
+C00499,Turner Builders Ltd,Contractor,Leicester,2025-02-21,0,1
+C00500,Hall Contractors,Contractor,Northampton,2023-06-30,1,1
+C00501,Cooper Builders Ltd,Contractor,Leicester,2024-12-21,1,0
+C00502,Tom Baker,Retail,Birmingham South,2024-07-09,1,1
+C00503,Reid Developments,Trade Account,Nuneaton,2023-01-21,1,1
+C00504,Taylor Home Improvements,Housebuilder,Nuneaton,2025-01-04,1,0
+C00505,Smith Contractors,Contractor,Binley (Coventry),2024-08-23,1,1
+C00506,Hall Construction,Trade Account,Birmingham South,2024-01-18,1,0
+C00507,Aisha Green,Retail,Leicester,2023-05-20,0,0
+C00508,Megan Green,Retail,Rugby,2023-06-28,1,0
+C00509,Hall Developments,Contractor,Birmingham South,2024-11-12,1,1
+C00510,Hughes Contractors,Trade Account,Rugby,2023-07-01,1,0
+C00511,Cooper Builders Ltd,Housebuilder,Northampton,2023-07-06,1,0
+C00512,Cooper Construction,Housebuilder,Nuneaton,2024-05-23,1,0
+C00513,Khan Construction,Trade Account,Leicester,2025-04-21,1,0
+C00514,Smith Building Services,Contractor,Northampton,2023-08-03,1,1
+C00515,Smith Builders Ltd,Trade Account,Binley (Coventry),2024-01-31,1,1
+C00516,Baker Roofing Ltd,Trade Account,Northampton,2023-12-26,1,1
+C00517,Chloe Khan,Retail,Birmingham South,2024-04-07,1,0
+C00518,Walker Construction,Trade Account,Leicester,2023-03-17,1,0
+C00519,Turner Construction,Trade Account,Binley (Coventry),2023-12-13,1,0
+C00520,Sophie Khan,Retail,Binley (Coventry),2024-09-13,0,1
+C00521,Wilson Roofing Ltd,Trade Account,Nuneaton,2024-12-14,1,0
+C00522,Aisha Hughes,Retail,Rugby,2023-09-01,1,1
+C00523,David Patel,Retail,Northampton,2024-01-05,1,1
+C00524,Reid Groundworks,Contractor,Rugby,2023-07-24,1,1
+C00525,Megan Brown,Retail,Binley (Coventry),2023-11-12,1,1
+C00526,Jones Property Services,Contractor,Leicester,2024-02-01,1,0
+C00527,Sarah Walker,Retail,Northampton,2024-03-26,1,1
+C00528,Taylor Construction,Trade Account,Binley (Coventry),2023-03-29,1,0
+C00529,Chloe Turner,Retail,Birmingham South,2023-03-04,0,0
+C00530,Megan Cooper,Retail,Birmingham South,2023-08-30,1,1
+C00531,Patel Property Services,Housebuilder,Rugby,2024-08-07,0,0
+C00532,Taylor Construction,Contractor,Birmingham South,2025-02-14,1,0
+C00533,Wilson Contractors,Trade Account,Nuneaton,2023-02-13,1,0
+C00534,David Reid,Retail,Rugby,2023-09-22,1,0
+C00535,Wright Property Services,Contractor,Binley (Coventry),2024-02-11,1,0
+C00536,Ellie Cooper,Retail,Binley (Coventry),2024-06-19,1,1
+C00537,Cooper & Sons,Trade Account,Birmingham South,2025-02-15,0,1
+C00538,Hughes Property Services,Trade Account,Binley (Coventry),2023-12-19,0,1
+C00539,Reid Groundworks,Contractor,Birmingham South,2023-02-08,1,1
+C00540,Ryan Patel,Retail,Rugby,2024-02-10,0,1
+C00541,Baker Building Services,Trade Account,Rugby,2024-01-17,1,0
+C00542,Baker Construction,Trade Account,Leicester,2025-06-08,1,1
+C00543,Walker Roofing Ltd,Contractor,Leicester,2024-09-11,1,1
+C00544,Baker Property Services,Trade Account,Northampton,2025-06-07,1,1
+C00545,Hughes Property Services,Contractor,Binley (Coventry),2024-02-18,1,0
+C00546,Khan Developments,Contractor,Binley (Coventry),2025-06-15,0,0
+C00547,Patel Home Improvements,Trade Account,Northampton,2024-12-22,1,1
+C00548,Emily Smith,Retail,Northampton,2023-09-05,1,0
+C00549,Cooper Property Services,Trade Account,Northampton,2023-12-25,1,0
+C00550,Jones Building Services,Trade Account,Rugby,2023-01-29,1,1
+C00551,Chloe Evans,Retail,Nuneaton,2024-11-24,1,0
+C00552,James Baker,Retail,Rugby,2023-05-16,1,0
+C00553,Reid Building Services,Trade Account,Leicester,2024-12-30,0,0
+C00554,Grace King,Retail,Northampton,2023-09-16,1,1
+C00555,Ryan Cooper,Retail,Birmingham South,2023-04-15,1,0
+C00556,Turner & Sons,Housebuilder,Leicester,2024-09-15,1,0
+C00557,Liam Green,Retail,Leicester,2025-06-01,1,0
+C00558,Hughes Developments,Housebuilder,Rugby,2023-06-03,1,1
+C00559,Wright Home Improvements,Trade Account,Birmingham South,2024-11-28,1,1
+C00560,Liam Clarke,Retail,Leicester,2024-02-19,1,1
+C00561,Wilson Home Improvements,Contractor,Birmingham South,2025-01-13,1,0
+C00562,Grace Ward,Retail,Northampton,2023-11-04,0,0
+C00563,Hughes Construction,Contractor,Nuneaton,2024-04-27,1,1
+C00564,Green Construction,Contractor,Nuneaton,2023-08-16,1,0
+C00565,Hall Building Services,Trade Account,Leicester,2024-08-22,1,0
+C00566,Sam Cooper,Retail,Rugby,2024-09-27,1,0
+C00567,Ryan Ward,Retail,Rugby,2023-11-02,1,0
+C00568,Green Roofing Ltd,Trade Account,Nuneaton,2024-08-06,0,0
+C00569,Khan Construction,Trade Account,Rugby,2024-05-14,1,0
+C00570,Smith Groundworks,Trade Account,Binley (Coventry),2023-10-08,1,0
+C00571,Megan Jones,Retail,Nuneaton,2023-05-13,1,0
+C00572,Ryan Smith,Retail,Northampton,2023-02-08,1,0
+C00573,Ward Developments,Housebuilder,Leicester,2023-01-19,1,0
+C00574,Hall Building Services,Trade Account,Rugby,2023-05-13,1,1
+C00575,Patel Building Services,Trade Account,Binley (Coventry),2023-10-25,1,1
+C00576,David Green,Retail,Northampton,2024-05-16,1,1
+C00577,Smith Developments,Housebuilder,Northampton,2023-08-18,1,1
+C00578,Ward Contractors,Contractor,Birmingham South,2023-05-07,1,0
+C00579,Walker Property Services,Trade Account,Rugby,2024-09-30,1,0
+C00580,Smith Builders Ltd,Contractor,Rugby,2024-12-07,1,1
+C00581,Baker Contractors,Trade Account,Leicester,2023-07-30,1,0
+C00582,Brown Property Services,Trade Account,Rugby,2023-10-04,1,0
+C00583,Kieran Reid,Retail,Binley (Coventry),2023-05-01,1,0
+C00584,Tom Walker,Retail,Birmingham South,2025-05-01,1,1
+C00585,Khan Builders Ltd,Contractor,Leicester,2024-07-15,1,1
+C00586,Evans Builders Ltd,Housebuilder,Leicester,2023-01-14,1,0
+C00587,Baker Contractors,Contractor,Rugby,2023-04-03,1,1
+C00588,Evans Groundworks,Contractor,Leicester,2023-10-31,1,1
+C00589,Hughes Home Improvements,Contractor,Binley (Coventry),2025-03-31,1,1
+C00590,Smith Contractors,Trade Account,Binley (Coventry),2024-11-10,1,1
+C00591,Walker Construction,Contractor,Birmingham South,2024-01-17,0,1
+C00592,Liam Wright,Retail,Northampton,2024-12-07,0,0
+C00593,Emily Taylor,Retail,Nuneaton,2024-12-13,1,0
+C00594,Clarke & Sons,Contractor,Binley (Coventry),2024-05-09,0,0
+C00595,Hall & Sons,Trade Account,Northampton,2023-01-30,0,0
+C00596,Baker Groundworks,Contractor,Nuneaton,2023-04-26,0,1
+C00597,Green Builders Ltd,Trade Account,Rugby,2024-12-22,0,1
+C00598,Cooper Developments,Contractor,Rugby,2024-11-16,0,1
+C00599,Brown Roofing Ltd,Contractor,Birmingham South,2024-11-08,1,1
+C00600,Wright Contractors,Contractor,Rugby,2025-05-09,0,0
