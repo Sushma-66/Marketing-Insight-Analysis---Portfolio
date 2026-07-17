@@ -39,6 +39,16 @@ recommendations.
 │                   for segmentation, campaigns, and NPS
 └── powerbi/        Power BI dashboard (data model, DAX measures, 4-page report)
 ```
+### Power BI Dashboard Preview
+
+**Executive Summary**
+![Executive Summary](powerbi/executive_summary.png)
+
+**Segmentation & Campaigns**
+![Segmentation & Campaigns](powerbi/segmentation_campaigns.png)
+
+**Customer Experience (NPS)**
+![Customer Experience](powerbi/customer_experience.png)
 
 | Folder | What's inside |
 |---|---|
