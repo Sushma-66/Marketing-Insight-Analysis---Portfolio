@@ -1,9 +1,7 @@
 /* =====================================================================
-   BUSINESS ANALYSIS QUERIES (PostgreSQL version)
-   Same logic as the SQLite version. Key differences:
-   - No text-to-number CAST needed (columns are NUMERIC/INTEGER natively)
-   - Date math uses native DATE subtraction instead of JULIANDAY()
-   - Month trend uses TO_CHAR() instead of STRFTIME()
+   BUSINESS ANALYSIS QUERIES
+   Revenue and margin by segment, customer segmentation (RFM), campaign
+   ROI, channel effectiveness, and customer experience (NPS).
    ===================================================================== */
 
 -- 1. Revenue and margin by customer type
@@ -33,7 +31,7 @@ GROUP BY o.branch, p.category
 ORDER BY o.branch, revenue DESC;
 
 -- 3. RFM-style customer segmentation
---    Reference date = 2026-07-07 ("today" for this project)
+--    Reference date = 2026-07-07
 WITH customer_orders AS (
     SELECT
         c.customer_id,
