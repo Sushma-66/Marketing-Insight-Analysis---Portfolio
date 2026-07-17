@@ -1,7 +1,7 @@
 -- =====================================================================
 -- PostgreSQL schema for the Marketing & Insight Analyst portfolio project
--- Run this first to create properly-typed tables (unlike the SQLite
--- version, Postgres lets us use real DATE, NUMERIC, BOOLEAN types)
+-- Creates properly-typed tables (DATE, NUMERIC, BOOLEAN) with primary and
+-- foreign key constraints, plus indexes on the columns used most in joins.
 -- =====================================================================
 
 DROP TABLE IF EXISTS campaign_sends CASCADE;
@@ -75,7 +75,6 @@ CREATE TABLE nps_responses (
     branch          VARCHAR(50) NOT NULL
 );
 
--- Helpful indexes for the joins used in the analysis queries
 CREATE INDEX idx_orders_customer ON orders(customer_id);
 CREATE INDEX idx_orderlines_order ON order_lines(order_id);
 CREATE INDEX idx_orderlines_product ON order_lines(product_id);
