@@ -1,6 +1,6 @@
 # Data Dictionary & Assumptions
 **Project:** Marketing & Insight Analyst Portfolio — Building Materials Distributor (sample data)
-**Author:** [Your Name] | **Date:** July 2026
+**Author:** Sushma Bilidale | **Date:** 15 July 2026
 
 > All data below is synthetic, generated for the purpose of this portfolio project.
 > It is designed to resemble the structure and scale of a multi-branch building
@@ -79,36 +79,3 @@
 | nps_score | integer (0–10) | Raw NPS rating |
 | category | text | Promoter (9–10), Passive (7–8), Detractor (0–6) |
 | branch | text | Customer's branch |
-
----
-
-## Key Definitions & Business Logic
-
-- **NPS Score (branch-level)** = % Promoters − % Detractors, based on standard 0–10 scale
-  (9–10 = Promoter, 7–8 = Passive, 0–6 = Detractor).
-- **Campaign ROI** = (Revenue Generated − Campaign Cost) / Campaign Cost × 100.
-- **Customer Segment (RFM-style)**:
-  - *Champion* = ordered within last 90 days AND 10+ lifetime orders
-  - *Loyal* = ordered within last 180 days AND 5+ lifetime orders
-  - *At Risk / Dormant* = no order in 365+ days
-  - *Developing* = everyone else
-  - *Never purchased* = signed up but zero orders on record
-  - Reference "today" for recency calculations: **2026-07-07**
-- **Gross Margin %** = (Revenue − Cost of Goods) / Revenue × 100, calculated at the product level and rolled up.
-- **Active Customer** (assumption, used in Excel/BI layer): placed at least 1 order in the trailing 12 months.
-
-## Assumptions Made (would validate against source systems in a real role)
-1. `order_total` is assumed to be a reliable header-level total; a reconciliation check
-   against summed `order_lines` is included in `sql/01_data_quality_checks.sql` to confirm this.
-2. Campaign attribution assumes a simple last-touch model (any order following a click/open
-   is attributed to that campaign) — in reality this would need a defined attribution window
-   agreed with stakeholders.
-3. Direct Mail campaigns have no "opened" tracking (left blank) since physical mail can't be
-   tracked the way digital channels can — only conversions are measurable.
-4. Customer duplicates (same name + branch) were flagged in QA rather than silently removed,
-   since in a real dataset this would need business confirmation before merging.
-
-## Known Data Quality Findings (from `01_data_quality_checks.sql`)
-- 54 potential duplicate customer name/branch combinations flagged for review.
-- No orphaned orders or order lines found (referential integrity holds).
-- Order header totals reconcile fully against line-level detail (0 variances).
