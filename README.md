@@ -42,7 +42,7 @@ recommendations.
 ### Power BI Dashboard Preview
 
 **Executive Summary**
-![Executive Summary](powerbi/executive summary.png)
+![Executive Summary](powerbi/executive_summary.png)
 
 **Segmentation & Campaigns**
 ![Segmentation & Campaigns](powerbi/segmentation_campaigns.png)
