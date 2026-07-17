@@ -1,7 +1,8 @@
 /* =====================================================================
-   DATA QUALITY & VALIDATION CHECKS (PostgreSQL version)
-   Same logic as the SQLite version, using native Postgres types
-   (no CAST-from-text needed since columns are properly typed).
+   DATA QUALITY & VALIDATION CHECKS
+   Before any analysis is trusted, the underlying data needs to be validated:
+   referential integrity, header-to-detail reconciliation, duplicate
+   detection, and compliance checks on marketing consent.
    ===================================================================== */
 
 -- 1. Orphaned orders: orders referencing a customer_id that doesn't exist
@@ -27,13 +28,13 @@ JOIN order_lines ol ON o.order_id = ol.order_id
 GROUP BY o.order_id, o.order_total
 HAVING ABS(o.order_total - SUM(ol.line_total)) > 0.01;
 
--- 4. Duplicate customers by name + branch (potential dupe accounts)
+-- 4. Duplicate customers by name + branch (potential duplicate accounts)
 SELECT customer_name, branch, COUNT(*) AS cnt
 FROM customers
 GROUP BY customer_name, branch
 HAVING COUNT(*) > 1;
 
--- 5. Campaign sends to customers who did NOT opt in (compliance / data quality flag)
+-- 5. Campaign sends to customers who did not opt in (consent/compliance check)
 SELECT cs.send_id, cs.campaign_id, c.customer_id, c.email_opt_in, c.sms_opt_in, camp.channel
 FROM campaign_sends cs
 JOIN customers c ON cs.customer_id = c.customer_id
