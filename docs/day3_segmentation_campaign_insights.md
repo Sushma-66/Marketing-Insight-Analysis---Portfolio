@@ -1,11 +1,6 @@
 # Day 3 — Segmentation, Campaign Analysis & Customer Journey
 **Marketing & Insight Analyst Portfolio | Building Materials Distributor (sample data)**
 
-> This is the "so what" layer on top of the SQL and Excel work — the analytical
-> narrative a marketing/insights team would actually want to read, not just the
-> numbers behind it.
-
----
 
 ## 1. Customer Segmentation — What the RFM Model Shows
 
@@ -73,7 +68,7 @@ in the journey.
 
 ---
 
-## 4. Summary — What I'd Present to a Stakeholder in 2 Minutes
+## 4. Summary 
 
 1. Revenue is concentrated in a small Champion segment — retention here matters
    more than acquisition volume.
@@ -82,5 +77,3 @@ in the journey.
 3. The first-order experience is the highest-risk moment in the customer
    journey and the cheapest place to intervene.
 
-*(This is deliberately short — a real stakeholder update should fit on one
-slide or in 3 bullet points before anyone asks "so what should we do about it.")*
